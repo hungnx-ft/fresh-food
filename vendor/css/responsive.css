@@ -1,0 +1,10 @@
+.menu-list .show {
+    z-index: 2;
+    right: 0;
+}
+
+.menu-list .show ul {
+    width: 50%;
+    float: right;
+    background-color: #579e05;
+}
